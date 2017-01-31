@@ -28,4 +28,4 @@ d.dist = function(str1, str2) {
 }
 
 d.dist("animal", "ainmal") #correct answer=1
-lv.dist("animal", "ainmal") #to compare: answer=2
+lv.dist("animal", "ainmal") #to compare the result: answer=2
